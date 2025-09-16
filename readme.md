@@ -32,9 +32,7 @@ Welcome to my full-stack e-commerce application built with Java (Spring Boot) an
    `npm install`  
    `npm run dev`
 
-## Screenshots
 
-(Add your own screenshots here)
 
 ## Credits
 
